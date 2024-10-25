@@ -1,0 +1,15 @@
+/home/sam/work/code/angular-test/backend/app/publish/app/build/appsettings.Development.json
+/home/sam/work/code/angular-test/backend/app/publish/app/build/appsettings.json
+/home/sam/work/code/angular-test/backend/app/publish/app/build/backend.deps.json
+/home/sam/work/code/angular-test/backend/app/publish/app/build/backend.runtimeconfig.json
+/home/sam/work/code/angular-test/backend/app/publish/appsettings.Development.json
+/home/sam/work/code/angular-test/backend/app/publish/appsettings.json
+/home/sam/work/code/angular-test/backend/app/publish/backend.dll
+/home/sam/work/code/angular-test/backend/app/publish/backend.deps.json
+/home/sam/work/code/angular-test/backend/app/publish/backend.runtimeconfig.json
+/home/sam/work/code/angular-test/backend/app/publish/backend.pdb
+/home/sam/work/code/angular-test/backend/app/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/sam/work/code/angular-test/backend/app/publish/Microsoft.OpenApi.dll
+/home/sam/work/code/angular-test/backend/app/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/sam/work/code/angular-test/backend/app/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/sam/work/code/angular-test/backend/app/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
