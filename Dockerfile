@@ -34,9 +34,6 @@ ENV ASPNETCORE_ENVIRONMENT="Release"
 # runtime dockerfile有預先設定ASPNETCORE_HTTP_PORTS＝8080，所以如果不設定，預設會是8080
 ENV ASPNETCORE_HTTP_PORTS=8080
 
-# RUN apt update
-# RUN apt install -y aspnetcore-runtime-8.0
-
 RUN apk add aspnetcore8-runtime
 
 COPY --from=nodebuilder /frontend/dist/angular-test/browser/ /usr/share/nginx/html
